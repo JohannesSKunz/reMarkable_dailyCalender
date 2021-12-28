@@ -16,17 +16,18 @@ My simple-to-use landscape calendar made for reMarkable; easily customize with s
 - Links to monthly todos (click the month on the top right)
 - Table of content: jump between months
 
+*Example month* 
 ![Month_example](Month_example.png)
 
-
-
+*Example days* 
+![Day_example](Day_example.png)
 
 *Construction*
 - Adjust in excel: get all days-drop down, filter workdays-sheet, copy main sheet
-- Copy into latex, adjust label (drop spaces) search ` MONTH ' and replace  `\hyperref[MONTH]{MONTH}' (plan to automate for 2023)
+- Copy into latex, adjust label (drop spaces) search `` MONTH '' and replace  ``\hyperref[MONTH]{MONTH}'' (I plan to automate for 2023)
 
 ## Update History
-* **Dec 29, 2021**
+* **Dec 29, 2021** *
 - initial commit
   
 
