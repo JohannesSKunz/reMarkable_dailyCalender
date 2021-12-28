@@ -7,14 +7,14 @@
 
 ## Overview 
 
-My simple-to-use landscape calendar made for reMarkable; easily customize with some basic excel and latex skills. 
+My simple-to-use pdf landscape calendar made for reMarkable; easily customize with some basic excel and latex skills. 
 
 *Features* 
 - Landscape 
 - Only work days 
-- Pre-filed Dates 
-- Links to monthly todos (click the month on the top right)
+- Pre-filled dates
 - Table of content: jump between months
+- Links to monthly todos (click the month on the top right)
 
 *Example month* 
 ![Month_example](Month_example.png)
@@ -22,7 +22,7 @@ My simple-to-use landscape calendar made for reMarkable; easily customize with s
 *Example days* 
 ![Day_example](Day_example.png)
 
-*Construction*
+## Construction
 - Adjust in excel: get all days-drop down, filter workdays-sheet, copy main sheet
 - Copy into latex, adjust label (drop spaces) search  [MONTH] and replace  [\hyperref[MONTH]{MONTH}] (I plan to automate with for 2023)
 
