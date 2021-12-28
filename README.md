@@ -24,7 +24,7 @@ My simple-to-use landscape calendar made for reMarkable; easily customize with s
 
 *Construction*
 - Adjust in excel: get all days-drop down, filter workdays-sheet, copy main sheet
-- Copy into latex, adjust label (drop spaces) search `` MONTH '' and replace  ``\hyperref[MONTH]{MONTH}'' (I plan to automate for 2023)
+- Copy into latex, adjust label (drop spaces) search  [MONTH] and replace  [\hyperref[MONTH]{MONTH}] (I plan to automate with for 2023)
 
 ## Update History
 * **Dec 29, 2021** *
