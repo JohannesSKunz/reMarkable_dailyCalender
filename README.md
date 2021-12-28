@@ -9,9 +9,11 @@
 
 My simple-to-use pdf landscape calendar made for reMarkable; easily customize with some basic excel and latex skills. 
 
+Simply load the 2022_dailycalendar.pdf on the reMarkable. 
+
 *Features* 
 - Landscape 
-- Only work days 
+- Only workdays 
 - Pre-filled dates
 - Table of content: jump between months
 - Links to monthly todos (click the month on the top right)
