@@ -7,7 +7,7 @@
 
 ## Overview 
 
-My simple to use landscape calendar made for reMarkable. Bis some basic excel and latex skills easily customize. 
+My simple-to-use landscape calendar made for reMarkable; easily customize with some basic excel and latex skills. 
 
 *Features* 
 - Landscape 
@@ -15,6 +15,11 @@ My simple to use landscape calendar made for reMarkable. Bis some basic excel an
 - Pre-filed Dates 
 - Links to monthly todos (click the month on the top right)
 - Table of content: jump between months
+
+![Month_example](Month_example.png)
+
+
+
 
 *Construction*
 - Adjust in excel: get all days-drop down, filter workdays-sheet, copy main sheet
